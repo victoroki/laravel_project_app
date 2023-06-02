@@ -28,6 +28,6 @@
     </div>
   @enderror
 
-  <button type="submit">Submit</button>
+  <button class="hover:bg-red" type="submit">Submit</button>
 </form>
 @endsection
